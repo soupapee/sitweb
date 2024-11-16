@@ -1,0 +1,22 @@
+li{
+    color: red;
+}
+p,a{
+    color:rgb(124,252,0);
+
+}
+span{
+    color: blue;
+}
+li em{
+    color: black;
+}
+li>em{
+    color: black;
+}
+#ra{
+    color: blue;
+}
+#a{
+     
+}
